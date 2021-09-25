@@ -1,6 +1,6 @@
 
 
 with open("artifacts01.txt","r") as f:
-    text=f.read()
+    text1=f.read()
 
-print(text)
+print(text1)
